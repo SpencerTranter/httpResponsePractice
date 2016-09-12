@@ -1,0 +1,19 @@
+{
+  "name": "http_request_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpRequests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerTranter/httpResponsePractice.git"
+  },
+  "author": "Spencer Tranter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerTranter/httpResponsePractice/issues"
+  },
+  "homepage": "https://github.com/SpencerTranter/httpResponsePractice#readme"
+}
